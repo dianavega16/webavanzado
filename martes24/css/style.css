@@ -1,0 +1,17 @@
+.circulo{
+  height: 100px;
+  width: 100px;
+  background-color: pink;
+  border-radius: 50px;
+}
+
+#cuadrado{
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  margin-top: 10px;
+}
+
+.circulo2{
+  background-color: green;
+}
